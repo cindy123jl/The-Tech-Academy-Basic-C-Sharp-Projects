@@ -1,0 +1,12 @@
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/DailyReportForStudents/DailyReportForStudents/bin/Debug/netcoreapp3.1/DailyReportForStudents.deps.json
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/DailyReportForStudents/DailyReportForStudents/bin/Debug/netcoreapp3.1/DailyReportForStudents.runtimeconfig.json
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/DailyReportForStudents/DailyReportForStudents/bin/Debug/netcoreapp3.1/DailyReportForStudents.runtimeconfig.dev.json
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/DailyReportForStudents/DailyReportForStudents/bin/Debug/netcoreapp3.1/DailyReportForStudents.dll
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/DailyReportForStudents/DailyReportForStudents/bin/Debug/netcoreapp3.1/DailyReportForStudents.pdb
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/DailyReportForStudents/DailyReportForStudents/obj/Debug/netcoreapp3.1/DailyReportForStudents.csprojAssemblyReference.cache
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/DailyReportForStudents/DailyReportForStudents/obj/Debug/netcoreapp3.1/DailyReportForStudents.AssemblyInfoInputs.cache
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/DailyReportForStudents/DailyReportForStudents/obj/Debug/netcoreapp3.1/DailyReportForStudents.AssemblyInfo.cs
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/DailyReportForStudents/DailyReportForStudents/obj/Debug/netcoreapp3.1/DailyReportForStudents.csproj.CoreCompileInputs.cache
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/DailyReportForStudents/DailyReportForStudents/obj/Debug/netcoreapp3.1/DailyReportForStudents.dll
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/DailyReportForStudents/DailyReportForStudents/obj/Debug/netcoreapp3.1/DailyReportForStudents.pdb
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/DailyReportForStudents/DailyReportForStudents/obj/Debug/netcoreapp3.1/DailyReportForStudents.genruntimeconfig.cache
