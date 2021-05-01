@@ -1,13 +1,14 @@
-﻿<Properties StartupConfiguration="{30A282E6-9A33-4039-B82B-EC8A59153EC1}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MathComparison/Program.cs">
+﻿<Properties StartupConfiguration="{C9C75250-B190-4B79-B75D-AD2AA7BBC03C}|Default">
+  <MonoDevelop.Ide.ItemProperties.BooleanLogic FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BooleanLogic/Program.cs">
     <Files>
-      <File FileName="MathComparison/Program.cs" Line="51" Column="75" />
+      <File FileName="BooleanLogic/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="MathComparison" expanded="True">
-            <Node name="MathComparison" expanded="True">
+          <Node name="BooleanLogic" expanded="True">
+            <Node name="BooleanLogic" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -17,7 +18,6 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.MathComparison PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
