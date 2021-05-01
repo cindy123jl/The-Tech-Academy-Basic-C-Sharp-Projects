@@ -1,0 +1,12 @@
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MathComparison/MathComparison/bin/Debug/netcoreapp3.1/MathComparison.deps.json
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MathComparison/MathComparison/bin/Debug/netcoreapp3.1/MathComparison.runtimeconfig.json
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MathComparison/MathComparison/bin/Debug/netcoreapp3.1/MathComparison.runtimeconfig.dev.json
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MathComparison/MathComparison/bin/Debug/netcoreapp3.1/MathComparison.dll
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MathComparison/MathComparison/bin/Debug/netcoreapp3.1/MathComparison.pdb
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MathComparison/MathComparison/obj/Debug/netcoreapp3.1/MathComparison.csprojAssemblyReference.cache
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MathComparison/MathComparison/obj/Debug/netcoreapp3.1/MathComparison.AssemblyInfoInputs.cache
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MathComparison/MathComparison/obj/Debug/netcoreapp3.1/MathComparison.AssemblyInfo.cs
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MathComparison/MathComparison/obj/Debug/netcoreapp3.1/MathComparison.csproj.CoreCompileInputs.cache
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MathComparison/MathComparison/obj/Debug/netcoreapp3.1/MathComparison.dll
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MathComparison/MathComparison/obj/Debug/netcoreapp3.1/MathComparison.pdb
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MathComparison/MathComparison/obj/Debug/netcoreapp3.1/MathComparison.genruntimeconfig.cache
