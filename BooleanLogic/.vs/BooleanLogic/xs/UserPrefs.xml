@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{C9C75250-B190-4B79-B75D-AD2AA7BBC03C}|Default">
-  <MonoDevelop.Ide.ItemProperties.BooleanLogic FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.BooleanLogic PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="BooleanLogic/Program.cs">
     <Files>
-      <File FileName="BooleanLogic/Program.cs" Line="1" Column="1" />
+      <File FileName="BooleanLogic/Program.cs" Line="6" Column="18" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
