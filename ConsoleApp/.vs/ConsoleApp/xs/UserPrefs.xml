@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{D88E09B1-8C2A-48D4-801D-380F0FEF9355}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Branching/Program.cs">
+﻿<Properties StartupConfiguration="{CA9F87B9-4518-4535-A00D-4ACFCDAACEFF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleApp/Program.cs">
     <Files>
-      <File FileName="Branching/Program.cs" Line="35" Column="106" />
+      <File FileName="ConsoleApp/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Branching" expanded="True">
-            <Node name="Branching" expanded="True">
+          <Node name="ConsoleApp" expanded="True">
+            <Node name="ConsoleApp" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,11 +15,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Branching PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ConsoleApp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
