@@ -1,0 +1,12 @@
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConsoleAppArray/ConsoleAppArray/bin/Debug/netcoreapp3.1/ConsoleAppArray.deps.json
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConsoleAppArray/ConsoleAppArray/bin/Debug/netcoreapp3.1/ConsoleAppArray.runtimeconfig.json
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConsoleAppArray/ConsoleAppArray/bin/Debug/netcoreapp3.1/ConsoleAppArray.runtimeconfig.dev.json
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConsoleAppArray/ConsoleAppArray/bin/Debug/netcoreapp3.1/ConsoleAppArray.dll
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConsoleAppArray/ConsoleAppArray/bin/Debug/netcoreapp3.1/ConsoleAppArray.pdb
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConsoleAppArray/ConsoleAppArray/obj/Debug/netcoreapp3.1/ConsoleAppArray.csprojAssemblyReference.cache
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConsoleAppArray/ConsoleAppArray/obj/Debug/netcoreapp3.1/ConsoleAppArray.AssemblyInfoInputs.cache
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConsoleAppArray/ConsoleAppArray/obj/Debug/netcoreapp3.1/ConsoleAppArray.AssemblyInfo.cs
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConsoleAppArray/ConsoleAppArray/obj/Debug/netcoreapp3.1/ConsoleAppArray.csproj.CoreCompileInputs.cache
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConsoleAppArray/ConsoleAppArray/obj/Debug/netcoreapp3.1/ConsoleAppArray.dll
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConsoleAppArray/ConsoleAppArray/obj/Debug/netcoreapp3.1/ConsoleAppArray.pdb
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConsoleAppArray/ConsoleAppArray/obj/Debug/netcoreapp3.1/ConsoleAppArray.genruntimeconfig.cache
