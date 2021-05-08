@@ -1,0 +1,12 @@
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConsoleAppStringsAndIntegers/ConsoleAppStringsAndIntegers/bin/Debug/netcoreapp3.1/ConsoleAppStringsAndIntegers.deps.json
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConsoleAppStringsAndIntegers/ConsoleAppStringsAndIntegers/bin/Debug/netcoreapp3.1/ConsoleAppStringsAndIntegers.runtimeconfig.json
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConsoleAppStringsAndIntegers/ConsoleAppStringsAndIntegers/bin/Debug/netcoreapp3.1/ConsoleAppStringsAndIntegers.runtimeconfig.dev.json
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConsoleAppStringsAndIntegers/ConsoleAppStringsAndIntegers/bin/Debug/netcoreapp3.1/ConsoleAppStringsAndIntegers.dll
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConsoleAppStringsAndIntegers/ConsoleAppStringsAndIntegers/bin/Debug/netcoreapp3.1/ConsoleAppStringsAndIntegers.pdb
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConsoleAppStringsAndIntegers/ConsoleAppStringsAndIntegers/obj/Debug/netcoreapp3.1/ConsoleAppStringsAndIntegers.csprojAssemblyReference.cache
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConsoleAppStringsAndIntegers/ConsoleAppStringsAndIntegers/obj/Debug/netcoreapp3.1/ConsoleAppStringsAndIntegers.AssemblyInfoInputs.cache
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConsoleAppStringsAndIntegers/ConsoleAppStringsAndIntegers/obj/Debug/netcoreapp3.1/ConsoleAppStringsAndIntegers.AssemblyInfo.cs
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConsoleAppStringsAndIntegers/ConsoleAppStringsAndIntegers/obj/Debug/netcoreapp3.1/ConsoleAppStringsAndIntegers.csproj.CoreCompileInputs.cache
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConsoleAppStringsAndIntegers/ConsoleAppStringsAndIntegers/obj/Debug/netcoreapp3.1/ConsoleAppStringsAndIntegers.dll
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConsoleAppStringsAndIntegers/ConsoleAppStringsAndIntegers/obj/Debug/netcoreapp3.1/ConsoleAppStringsAndIntegers.pdb
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConsoleAppStringsAndIntegers/ConsoleAppStringsAndIntegers/obj/Debug/netcoreapp3.1/ConsoleAppStringsAndIntegers.genruntimeconfig.cache

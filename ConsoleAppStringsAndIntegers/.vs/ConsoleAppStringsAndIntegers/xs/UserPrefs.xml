@@ -1,14 +1,13 @@
-﻿<Properties StartupConfiguration="{EF76DF45-0A90-4B90-9AD0-F968B2EBF6A1}|Default">
-  <MonoDevelop.Ide.ItemProperties.ConsoleAppAssignment PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleAppAssignment/Program.cs">
+﻿<Properties StartupConfiguration="{30998688-3663-4933-9A28-6E83614A0046}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleAppStringsAndIntegers/Program.cs">
     <Files>
-      <File FileName="ConsoleAppAssignment/Program.cs" Line="143" Column="39" />
+      <File FileName="ConsoleAppStringsAndIntegers/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ConsoleAppAssignment" expanded="True">
-            <Node name="ConsoleAppAssignment" expanded="True">
+          <Node name="ConsoleAppStringsAndIntegers" expanded="True">
+            <Node name="ConsoleAppStringsAndIntegers" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -22,4 +21,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ConsoleAppStringsAndIntegers FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
