@@ -1,14 +1,14 @@
-﻿<Properties StartupConfiguration="{DADCFFA4-DB4D-4F8A-AF80-BDD61342B217}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleAppArray/Program.cs">
+﻿<Properties StartupConfiguration="{EF76DF45-0A90-4B90-9AD0-F968B2EBF6A1}|Default">
+  <MonoDevelop.Ide.ItemProperties.ConsoleAppAssignment FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleAppAssignment/Program.cs">
     <Files>
-      <File FileName="ConsoleAppArray/EmptyCSSFile.css" Line="1" Column="1" />
-      <File FileName="ConsoleAppArray/Program.cs" Line="1" Column="1" />
+      <File FileName="ConsoleAppAssignment/Program.cs" Line="9" Column="13" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ConsoleAppArray" expanded="True">
-            <Node name="ConsoleAppArray" expanded="True">
+          <Node name="ConsoleAppAssignment" expanded="True">
+            <Node name="ConsoleAppAssignment" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -22,5 +22,4 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.ConsoleAppArray PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
