@@ -16,12 +16,18 @@ using System.Threading.Tasks;
 
 namespace CallingMethods
 {
-    class Numbers
+   public class Numbers
     {
+        
+
         static void Main(string[] args)
         {
+            double num2 = 2;
+            Console.WriteLine("Please enter a number: ");
+            double num1 = double.Parse(Console.ReadLine());
+
+            Math User = new Math(num1, num2); 
 
         }
-        
     }
 }

@@ -1,0 +1,12 @@
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/CallingMethods/CallingMethods/bin/Debug/netcoreapp3.1/CallingMethods.deps.json
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/CallingMethods/CallingMethods/bin/Debug/netcoreapp3.1/CallingMethods.runtimeconfig.json
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/CallingMethods/CallingMethods/bin/Debug/netcoreapp3.1/CallingMethods.runtimeconfig.dev.json
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/CallingMethods/CallingMethods/bin/Debug/netcoreapp3.1/CallingMethods.dll
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/CallingMethods/CallingMethods/bin/Debug/netcoreapp3.1/CallingMethods.pdb
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/CallingMethods/CallingMethods/obj/Debug/netcoreapp3.1/CallingMethods.csprojAssemblyReference.cache
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/CallingMethods/CallingMethods/obj/Debug/netcoreapp3.1/CallingMethods.AssemblyInfoInputs.cache
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/CallingMethods/CallingMethods/obj/Debug/netcoreapp3.1/CallingMethods.AssemblyInfo.cs
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/CallingMethods/CallingMethods/obj/Debug/netcoreapp3.1/CallingMethods.csproj.CoreCompileInputs.cache
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/CallingMethods/CallingMethods/obj/Debug/netcoreapp3.1/CallingMethods.dll
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/CallingMethods/CallingMethods/obj/Debug/netcoreapp3.1/CallingMethods.pdb
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/CallingMethods/CallingMethods/obj/Debug/netcoreapp3.1/CallingMethods.genruntimeconfig.cache
