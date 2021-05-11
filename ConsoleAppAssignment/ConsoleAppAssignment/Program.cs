@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 using System.Collections.Generic;
 
 namespace ConsoleAppAssignment
@@ -133,18 +134,24 @@ namespace ConsoleAppAssignment
                 if (choice3 != "tall" && choice3 != "grande" && choice3 != "venti")//!= does not equal
                 {
                     Console.WriteLine("Your input is not in the list\n");//message to user
-                    
+
                 }
             }
 
             //list string datatype called month 
-            List<string> month = new List<string> { "Jan", "Feb", "Feb", "Mar", "April" };
-            
+            List<string> months = new List<string> { "Jan", "Feb", "Feb", "Mar", "April" };
+            //used for a foreach method this evaluates
+            IEnumerable<string> duplicates = months.GroupBy(x => x).SelectMany(g => g.Skip(1));
             //access the loop in order
-            foreach(string mth in month)
+            foreach (string month in months)
             {
-
-                Console.WriteLine(mth);
+                Console.WriteLine(month);
+                if (duplicates.Contains(month))//if we have a duplicate this will show under the said duplicate
+                {
+                    Console.WriteLine("We have a duplicate, " + month + " is our duplicate.");
+                }
+                
+        
             }
             Console.ReadLine();
 

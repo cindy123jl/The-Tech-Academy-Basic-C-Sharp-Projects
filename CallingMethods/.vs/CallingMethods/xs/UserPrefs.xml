@@ -1,14 +1,14 @@
-﻿<Properties StartupConfiguration="{EF76DF45-0A90-4B90-9AD0-F968B2EBF6A1}|Default">
-  <MonoDevelop.Ide.ItemProperties.ConsoleAppAssignment PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleAppAssignment/Program.cs">
+﻿<Properties StartupConfiguration="{A3A1B828-3D5E-41CA-B410-0700DC64463E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CallingMethods/Program.cs">
     <Files>
-      <File FileName="ConsoleAppAssignment/Program.cs" Line="140" Column="1" />
+      <File FileName="CallingMethods/Program.cs" Line="23" Column="1" />
+      <File FileName="CallingMethods/Math.cs" Line="12" Column="36" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ConsoleAppAssignment" expanded="True">
-            <Node name="ConsoleAppAssignment" expanded="True">
+          <Node name="CallingMethods" expanded="True">
+            <Node name="CallingMethods" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -16,6 +16,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CallingMethods FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

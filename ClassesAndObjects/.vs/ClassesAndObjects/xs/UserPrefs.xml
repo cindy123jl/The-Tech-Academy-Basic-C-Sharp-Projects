@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{BE7B4B00-BF2E-40BF-B8C9-26B65C42B3A7}|Default">
+  <MonoDevelop.Ide.ItemProperties.ClassesAndObjects PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClassesAndObjects/Deck.cs">
+    <Files>
+      <File FileName="ClassesAndObjects/Program.cs" Line="15" Column="34" />
+      <File FileName="ClassesAndObjects/Deck.cs" Line="9" Column="18" />
+      <File FileName="ClassesAndObjects/Card.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ClassesAndObjects" expanded="True">
+            <Node name="ClassesAndObjects" expanded="True">
+              <Node name="Deck.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
