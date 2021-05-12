@@ -16,17 +16,33 @@ using System.Threading.Tasks;
 
 namespace CallingMethods
 {
-   public class Numbers
+   public class Numbers //class called numbers
     {
-        
 
         static void Main(string[] args)
         {
-            double num2 = 2;
-            Console.WriteLine("Please enter a number: ");
-            double num1 = double.Parse(Console.ReadLine());
 
-            Math User = new Math(num1, num2); 
+            Math MathObj = new Math();
+            double num2 = 2; //assigning num2 a value of 2 
+            Console.WriteLine("Please enter a number: ");//asking user to input a number
+            double num1 = double.Parse(Console.ReadLine()); // reading the user input
+
+            
+
+            double total = MathObj.MethodOne(num1);
+
+            Console.WriteLine(num1 + " + " + num2 + " = " + total);
+
+            double total2 = MathObj.MethodTwo(num1);
+
+            Console.WriteLine(num1 + " * " + num2 + " = " + total2);
+
+            double total3 = MathObj.MethodThree(num1);
+
+            Console.WriteLine(num1 + " / " + num2 + " = " + total3);
+
+            Console.ReadLine();
+
 
         }
     }

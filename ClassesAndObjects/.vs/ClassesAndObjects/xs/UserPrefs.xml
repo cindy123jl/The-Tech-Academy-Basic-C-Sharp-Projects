@@ -4,7 +4,7 @@
     <Files>
       <File FileName="ClassesAndObjects/Program.cs" Line="15" Column="34" />
       <File FileName="ClassesAndObjects/Deck.cs" Line="9" Column="18" />
-      <File FileName="ClassesAndObjects/Card.cs" Line="1" Column="1" />
+      <File FileName="ClassesAndObjects/Card.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
