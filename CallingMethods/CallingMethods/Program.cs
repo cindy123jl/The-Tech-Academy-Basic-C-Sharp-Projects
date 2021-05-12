@@ -23,24 +23,24 @@ namespace CallingMethods
         {
 
             Math MathObj = new Math();
-            double num2 = 2; //assigning num2 a value of 2 
+            int num2 = 2; //assigning num2 a value of 2 
             Console.WriteLine("Please enter a number: ");//asking user to input a number
-            double num1 = double.Parse(Console.ReadLine()); // reading the user input
+            int num1 = int.Parse(Console.ReadLine()); // reading the user input
 
             
-
-            double total = MathObj.MethodOne(num1);
-
+            // int total, calling our methods 
+            int total = MathObj.MethodOne(num1, num2);
+            // printing out the input of the user (num1) + num2 which is always equal to 2 and then the total
             Console.WriteLine(num1 + " + " + num2 + " = " + total);
-
-            double total2 = MathObj.MethodTwo(num1);
-
+            // int total2, calling out methods
+            int total2 = MathObj.MethodTwo(num1, num2);
+            //printing out the math for the user
             Console.WriteLine(num1 + " * " + num2 + " = " + total2);
-
-            double total3 = MathObj.MethodThree(num1);
+            // our last mehod calling it from Math.cs
+            int total3 = MathObj.MethodThree(num1, num2);
 
             Console.WriteLine(num1 + " / " + num2 + " = " + total3);
-
+            //read line so program doesnt end abruptly
             Console.ReadLine();
 
 

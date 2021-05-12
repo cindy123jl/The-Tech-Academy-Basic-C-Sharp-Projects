@@ -25,7 +25,7 @@ namespace ClassesAndObjects
                     Card card = new Card();
                     card.Suit = suit;
                     card.Face = face;
-                    Cards.Add(card);//add card
+                    Card.Add(card);//add card
                 }
             }
 
