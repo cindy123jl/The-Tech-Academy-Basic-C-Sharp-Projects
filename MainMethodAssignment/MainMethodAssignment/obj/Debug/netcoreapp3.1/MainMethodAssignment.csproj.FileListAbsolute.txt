@@ -1,0 +1,12 @@
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MainMethodAssignment/MainMethodAssignment/bin/Debug/netcoreapp3.1/MainMethodAssignment.deps.json
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MainMethodAssignment/MainMethodAssignment/bin/Debug/netcoreapp3.1/MainMethodAssignment.runtimeconfig.json
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MainMethodAssignment/MainMethodAssignment/bin/Debug/netcoreapp3.1/MainMethodAssignment.runtimeconfig.dev.json
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MainMethodAssignment/MainMethodAssignment/bin/Debug/netcoreapp3.1/MainMethodAssignment.dll
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MainMethodAssignment/MainMethodAssignment/bin/Debug/netcoreapp3.1/MainMethodAssignment.pdb
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MainMethodAssignment/MainMethodAssignment/obj/Debug/netcoreapp3.1/MainMethodAssignment.csprojAssemblyReference.cache
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MainMethodAssignment/MainMethodAssignment/obj/Debug/netcoreapp3.1/MainMethodAssignment.AssemblyInfoInputs.cache
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MainMethodAssignment/MainMethodAssignment/obj/Debug/netcoreapp3.1/MainMethodAssignment.AssemblyInfo.cs
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MainMethodAssignment/MainMethodAssignment/obj/Debug/netcoreapp3.1/MainMethodAssignment.csproj.CoreCompileInputs.cache
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MainMethodAssignment/MainMethodAssignment/obj/Debug/netcoreapp3.1/MainMethodAssignment.dll
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MainMethodAssignment/MainMethodAssignment/obj/Debug/netcoreapp3.1/MainMethodAssignment.pdb
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MainMethodAssignment/MainMethodAssignment/obj/Debug/netcoreapp3.1/MainMethodAssignment.genruntimeconfig.cache
