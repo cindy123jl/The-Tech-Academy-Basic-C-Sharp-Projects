@@ -24,10 +24,8 @@ namespace MainMethodAssignment
         public string Methods(string num3)
         {
             int Num3 = Convert.ToInt32(num3);
-            string Total3 = Convert.ToInt32(total3);
             int Total3 = Num3 / 2;
-           // int total3 = Convert.ToInt32(Total3);
-            return Total3;
+            return Total3.ToString();
         }
     }
 }
