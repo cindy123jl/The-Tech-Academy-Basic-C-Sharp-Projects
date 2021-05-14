@@ -21,11 +21,11 @@ namespace MainMethodAssignment
             return Total2;//then we return the total2 as a int 
         }
 
-        public string Methods(string num3)
+        public string Methods(string num3)//method that will take in num3
         {
-            int Num3 = Convert.ToInt32(num3);
-            int Total3 = Num3 / 2;
-            return Total3.ToString();
+            int Num3 = Convert.ToInt32(num3);//num3 is then converted to an int
+            int Total3 = Num3 / 2;//mathematical operation is performed
+            return Total3.ToString();//Total3 is then returned back as a string after doing operation above
         }
     }
 }

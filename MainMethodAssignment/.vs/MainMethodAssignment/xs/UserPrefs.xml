@@ -1,16 +1,16 @@
 ﻿<Properties StartupConfiguration="{90B7406F-814B-4A61-948D-C277ED9B3FDC}|Default">
-  <MonoDevelop.Ide.ItemProperties.MainMethodAssignment FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MainMethodAssignment/Operations.cs">
+  <MonoDevelop.Ide.ItemProperties.MainMethodAssignment PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MainMethodAssignment/Program.cs">
     <Files>
-      <File FileName="MainMethodAssignment/Program.cs" Line="7" Column="20" />
-      <File FileName="MainMethodAssignment/Operations.cs" Line="1" Column="1" />
+      <File FileName="MainMethodAssignment/Program.cs" Line="33" Column="72" />
+      <File FileName="MainMethodAssignment/Operations.cs" Line="28" Column="108" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MainMethodAssignment" expanded="True">
             <Node name="MainMethodAssignment" expanded="True">
-              <Node name="Operations.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>

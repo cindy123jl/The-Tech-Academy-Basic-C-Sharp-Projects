@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{D379B116-2DC4-4BDB-9C41-A4FAE0641C06}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MethodSubmissionAssignment2/Math.cs">
+    <Files>
+      <File FileName="MethodSubmissionAssignment2/Program.cs" Line="3" Column="38" />
+      <File FileName="MethodSubmissionAssignment2/Math.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MethodSubmissionAssignment2" expanded="True">
+            <Node name="MethodSubmissionAssignment2" expanded="True">
+              <Node name="Math.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MethodSubmissionAssignment2 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
