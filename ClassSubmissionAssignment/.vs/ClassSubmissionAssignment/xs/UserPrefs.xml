@@ -1,15 +1,15 @@
 ﻿<Properties StartupConfiguration="{8DE5A83A-A483-403F-9BDB-215E247BFB55}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ClassSubmissionAssignment/Operations.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClassSubmissionAssignment/Program.cs">
     <Files>
-      <File FileName="ClassSubmissionAssignment/Program.cs" Line="21" Column="123" />
-      <File FileName="ClassSubmissionAssignment/Operations.cs" Line="5" Column="36" />
+      <File FileName="ClassSubmissionAssignment/Program.cs" Line="24" Column="45" />
+      <File FileName="ClassSubmissionAssignment/Operations.cs" Line="7" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ClassSubmissionAssignment" expanded="True">
             <Node name="ClassSubmissionAssignment" expanded="True">
-              <Node name="Operations.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>

@@ -3,8 +3,9 @@ namespace MethodsAndObjectsSubmission2
 {
     public class People
     {
-        public People()
+        public string People(string fname, string lname)
         {
+
         }
     }
 }
