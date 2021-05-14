@@ -1,0 +1,12 @@
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MethodClassSubmission3/MethodClassSubmission3/obj/Debug/netcoreapp3.1/MethodClassSubmission3.csprojAssemblyReference.cache
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MethodClassSubmission3/MethodClassSubmission3/obj/Debug/netcoreapp3.1/MethodClassSubmission3.AssemblyInfoInputs.cache
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MethodClassSubmission3/MethodClassSubmission3/obj/Debug/netcoreapp3.1/MethodClassSubmission3.AssemblyInfo.cs
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MethodClassSubmission3/MethodClassSubmission3/obj/Debug/netcoreapp3.1/MethodClassSubmission3.csproj.CoreCompileInputs.cache
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MethodClassSubmission3/MethodClassSubmission3/bin/Debug/netcoreapp3.1/MethodClassSubmission3.deps.json
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MethodClassSubmission3/MethodClassSubmission3/bin/Debug/netcoreapp3.1/MethodClassSubmission3.runtimeconfig.json
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MethodClassSubmission3/MethodClassSubmission3/bin/Debug/netcoreapp3.1/MethodClassSubmission3.runtimeconfig.dev.json
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MethodClassSubmission3/MethodClassSubmission3/bin/Debug/netcoreapp3.1/MethodClassSubmission3.dll
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MethodClassSubmission3/MethodClassSubmission3/bin/Debug/netcoreapp3.1/MethodClassSubmission3.pdb
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MethodClassSubmission3/MethodClassSubmission3/obj/Debug/netcoreapp3.1/MethodClassSubmission3.dll
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MethodClassSubmission3/MethodClassSubmission3/obj/Debug/netcoreapp3.1/MethodClassSubmission3.pdb
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MethodClassSubmission3/MethodClassSubmission3/obj/Debug/netcoreapp3.1/MethodClassSubmission3.genruntimeconfig.cache
