@@ -1,0 +1,12 @@
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ClassSubmissionAssignment/ClassSubmissionAssignment/bin/Debug/netcoreapp3.1/ClassSubmissionAssignment.deps.json
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ClassSubmissionAssignment/ClassSubmissionAssignment/bin/Debug/netcoreapp3.1/ClassSubmissionAssignment.runtimeconfig.json
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ClassSubmissionAssignment/ClassSubmissionAssignment/bin/Debug/netcoreapp3.1/ClassSubmissionAssignment.runtimeconfig.dev.json
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ClassSubmissionAssignment/ClassSubmissionAssignment/bin/Debug/netcoreapp3.1/ClassSubmissionAssignment.dll
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ClassSubmissionAssignment/ClassSubmissionAssignment/bin/Debug/netcoreapp3.1/ClassSubmissionAssignment.pdb
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ClassSubmissionAssignment/ClassSubmissionAssignment/obj/Debug/netcoreapp3.1/ClassSubmissionAssignment.csprojAssemblyReference.cache
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ClassSubmissionAssignment/ClassSubmissionAssignment/obj/Debug/netcoreapp3.1/ClassSubmissionAssignment.AssemblyInfoInputs.cache
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ClassSubmissionAssignment/ClassSubmissionAssignment/obj/Debug/netcoreapp3.1/ClassSubmissionAssignment.AssemblyInfo.cs
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ClassSubmissionAssignment/ClassSubmissionAssignment/obj/Debug/netcoreapp3.1/ClassSubmissionAssignment.csproj.CoreCompileInputs.cache
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ClassSubmissionAssignment/ClassSubmissionAssignment/obj/Debug/netcoreapp3.1/ClassSubmissionAssignment.dll
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ClassSubmissionAssignment/ClassSubmissionAssignment/obj/Debug/netcoreapp3.1/ClassSubmissionAssignment.pdb
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ClassSubmissionAssignment/ClassSubmissionAssignment/obj/Debug/netcoreapp3.1/ClassSubmissionAssignment.genruntimeconfig.cache

@@ -1,6 +1,6 @@
 ﻿<Properties StartupConfiguration="{90B7406F-814B-4A61-948D-C277ED9B3FDC}|Default">
   <MonoDevelop.Ide.ItemProperties.MainMethodAssignment PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MainMethodAssignment/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MainMethodAssignment/Operations.cs">
     <Files>
       <File FileName="MainMethodAssignment/Program.cs" Line="33" Column="72" />
       <File FileName="MainMethodAssignment/Operations.cs" Line="28" Column="108" />
@@ -10,7 +10,7 @@
         <State name="__root__">
           <Node name="MainMethodAssignment" expanded="True">
             <Node name="MainMethodAssignment" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Operations.cs" selected="True" />
             </Node>
           </Node>
         </State>
