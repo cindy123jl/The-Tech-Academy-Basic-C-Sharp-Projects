@@ -1,17 +1,15 @@
 ﻿<Properties StartupConfiguration="{BE7B4B00-BF2E-40BF-B8C9-26B65C42B3A7}|Default">
   <MonoDevelop.Ide.ItemProperties.ClassesAndObjects PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ClassesAndObjects/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClassesAndObjects/TwentyOneGame.cs">
     <Files>
-      <File FileName="ClassesAndObjects/Program.cs" Line="24" Column="1" />
-      <File FileName="ClassesAndObjects/Deck.cs" Line="45" Column="54" />
-      <File FileName="ClassesAndObjects/Card.cs" Line="9" Column="14" />
+      <File FileName="ClassesAndObjects/TwentyOneGame.cs" Line="14" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ClassesAndObjects" expanded="True">
             <Node name="ClassesAndObjects" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="TwentyOneGame.cs" selected="True" />
             </Node>
           </Node>
         </State>
