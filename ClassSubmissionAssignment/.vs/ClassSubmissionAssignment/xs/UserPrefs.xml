@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{8DE5A83A-A483-403F-9BDB-215E247BFB55}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="ClassSubmissionAssignment/Program.cs">
     <Files>
-      <File FileName="ClassSubmissionAssignment/Program.cs" Line="24" Column="45" />
-      <File FileName="ClassSubmissionAssignment/Operations.cs" Line="7" Column="10" />
+      <File FileName="ClassSubmissionAssignment/Program.cs" Line="26" Column="12" />
+      <File FileName="ClassSubmissionAssignment/Operations.cs" Line="20" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

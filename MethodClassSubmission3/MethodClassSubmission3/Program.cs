@@ -11,7 +11,7 @@ namespace MethodClassSubmission3
 
             Math MathObj = new Math(); //instantiating
 
-            MathObj.MyMethod(out num1, out num2); // num1 is 5 and num2 is 3 from the values we gave them in our MyMethod 
+            MathObj.MyMethod(out num1, out num2, out total); // num1 is 5 and num2 is 3 from the values we gave them in our MyMethod 
             Console.WriteLine(num2);//display num2 which is the number3
 
 

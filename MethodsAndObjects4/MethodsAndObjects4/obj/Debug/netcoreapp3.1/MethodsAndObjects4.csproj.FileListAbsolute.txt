@@ -1,0 +1,12 @@
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MethodsAndObjects4/MethodsAndObjects4/bin/Debug/netcoreapp3.1/MethodsAndObjects4.deps.json
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MethodsAndObjects4/MethodsAndObjects4/bin/Debug/netcoreapp3.1/MethodsAndObjects4.runtimeconfig.json
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MethodsAndObjects4/MethodsAndObjects4/bin/Debug/netcoreapp3.1/MethodsAndObjects4.runtimeconfig.dev.json
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MethodsAndObjects4/MethodsAndObjects4/bin/Debug/netcoreapp3.1/MethodsAndObjects4.dll
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MethodsAndObjects4/MethodsAndObjects4/bin/Debug/netcoreapp3.1/MethodsAndObjects4.pdb
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MethodsAndObjects4/MethodsAndObjects4/obj/Debug/netcoreapp3.1/MethodsAndObjects4.csprojAssemblyReference.cache
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MethodsAndObjects4/MethodsAndObjects4/obj/Debug/netcoreapp3.1/MethodsAndObjects4.AssemblyInfoInputs.cache
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MethodsAndObjects4/MethodsAndObjects4/obj/Debug/netcoreapp3.1/MethodsAndObjects4.AssemblyInfo.cs
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MethodsAndObjects4/MethodsAndObjects4/obj/Debug/netcoreapp3.1/MethodsAndObjects4.csproj.CoreCompileInputs.cache
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MethodsAndObjects4/MethodsAndObjects4/obj/Debug/netcoreapp3.1/MethodsAndObjects4.dll
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MethodsAndObjects4/MethodsAndObjects4/obj/Debug/netcoreapp3.1/MethodsAndObjects4.pdb
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MethodsAndObjects4/MethodsAndObjects4/obj/Debug/netcoreapp3.1/MethodsAndObjects4.genruntimeconfig.cache

@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{C3170255-6179-4384-AAD8-706642EAEF3B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MethodsAndObjects4/Employee.cs">
+    <Files>
+      <File FileName="MethodsAndObjects4/Program.cs" Line="5" Column="18" />
+      <File FileName="MethodsAndObjects4/Person.cs" Line="1" Column="1" />
+      <File FileName="MethodsAndObjects4/Employee.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MethodsAndObjects4" expanded="True">
+            <Node name="MethodsAndObjects4" expanded="True">
+              <Node name="Employee.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MethodsAndObjects4 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

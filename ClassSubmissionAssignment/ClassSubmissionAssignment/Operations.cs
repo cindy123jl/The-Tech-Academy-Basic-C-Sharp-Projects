@@ -10,6 +10,11 @@ namespace ClassSubmissionAssignment
           
         }
 
+        static void methodOne(string z)
+        {
+            Console.WriteLine(z);
+        }
+
        
 
     }
