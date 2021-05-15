@@ -10,16 +10,11 @@ namespace MethodClassSubmission3
 
     class Math//our class Math
     {
-        public void MyMethod(out int x, out int y, out int total)//name of method is MyMethod void means method doesn't need to return value
+        public void MyMethod(int num1, int num2)//name of method is MyMethod void means method doesn't need to return value
         {
-
-            x = 18; //assign x a value of 5
-
-            y = 3;//assign y a value of 3
-
-            total = x / y;
-
-            
+            Console.WriteLine("num1 with the value of 20 times the value of 5 equals: " + (num1 * 5));//this is ran num1 from Program.cs gets assigned here and is multiplied to 5
+            Console.WriteLine("The value for num2: {0}", num2);//num2 is displayed to the screen
+            Console.ReadLine();//avoids abrupt end
         }
 
        

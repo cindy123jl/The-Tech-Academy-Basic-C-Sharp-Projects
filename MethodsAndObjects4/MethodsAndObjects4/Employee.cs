@@ -7,8 +7,8 @@ using System.Threading.Tasks;
 
 namespace MethodsAndObjects4
 {
-    public class Employee : Person
+    public class Employee : Person //class Employee
     {
-        public int Id { get; set; }
+        public int Id { get; set; }// int Id return and set
     }
 }
