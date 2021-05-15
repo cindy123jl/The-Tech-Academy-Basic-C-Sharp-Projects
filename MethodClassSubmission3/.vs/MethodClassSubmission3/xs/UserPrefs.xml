@@ -1,16 +1,16 @@
 ﻿<Properties StartupConfiguration="{B1F89EAD-2BD2-42A4-9600-C181201C6899}|Default">
   <MonoDevelop.Ide.ItemProperties.MethodClassSubmission3 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MethodClassSubmission3/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MethodClassSubmission3/Math.cs">
     <Files>
-      <File FileName="MethodClassSubmission3/Math.cs" Line="24" Column="1" />
-      <File FileName="MethodClassSubmission3/Program.cs" Line="1" Column="1" />
+      <File FileName="MethodClassSubmission3/Math.cs" Line="17" Column="51" />
+      <File FileName="MethodClassSubmission3/Program.cs" Line="11" Column="82" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MethodClassSubmission3" expanded="True">
             <Node name="MethodClassSubmission3" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Math.cs" selected="True" />
             </Node>
           </Node>
         </State>
