@@ -11,11 +11,26 @@ namespace ClassesAndObjects
     {
         static void Main(string[] args)
         {
+            //List<Game> games = new List<Game>();
+
+            //Game game = new TwentyOneGame();//polymorphism TwentyOneGame inherits from game 
+            //good for many different game objects^
+
+            // games.Add(game);
+
+            //TwentyOneGame game = new TwentyOneGame();
+            // game.Players = new List<string>() { "jess", "bill", "jo" };
+            //game.ListPlayers();
+            //game.Play();
+            // Console.ReadLine();
+
+
+
             TwentyOneGame game = new TwentyOneGame();
-            game.Players = new List<string>() { "jess", "bill", "jo" };
+            game.Players = new List<string>() { "Jesse", "Bill", "Bob" };
             game.ListPlayers();
-            game.Play();
-            Console.ReadLine(); 
+            Console.ReadLine();
+
             Deck deck = new Deck();
             deck.Shuffle(3);
             

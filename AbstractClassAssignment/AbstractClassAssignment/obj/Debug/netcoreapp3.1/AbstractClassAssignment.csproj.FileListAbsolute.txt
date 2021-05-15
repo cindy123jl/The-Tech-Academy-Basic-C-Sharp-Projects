@@ -1,0 +1,12 @@
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/AbstractClassAssignment/AbstractClassAssignment/bin/Debug/netcoreapp3.1/AbstractClassAssignment.deps.json
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/AbstractClassAssignment/AbstractClassAssignment/bin/Debug/netcoreapp3.1/AbstractClassAssignment.runtimeconfig.json
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/AbstractClassAssignment/AbstractClassAssignment/bin/Debug/netcoreapp3.1/AbstractClassAssignment.runtimeconfig.dev.json
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/AbstractClassAssignment/AbstractClassAssignment/bin/Debug/netcoreapp3.1/AbstractClassAssignment.dll
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/AbstractClassAssignment/AbstractClassAssignment/bin/Debug/netcoreapp3.1/AbstractClassAssignment.pdb
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/AbstractClassAssignment/AbstractClassAssignment/obj/Debug/netcoreapp3.1/AbstractClassAssignment.csprojAssemblyReference.cache
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/AbstractClassAssignment/AbstractClassAssignment/obj/Debug/netcoreapp3.1/AbstractClassAssignment.AssemblyInfoInputs.cache
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/AbstractClassAssignment/AbstractClassAssignment/obj/Debug/netcoreapp3.1/AbstractClassAssignment.AssemblyInfo.cs
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/AbstractClassAssignment/AbstractClassAssignment/obj/Debug/netcoreapp3.1/AbstractClassAssignment.csproj.CoreCompileInputs.cache
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/AbstractClassAssignment/AbstractClassAssignment/obj/Debug/netcoreapp3.1/AbstractClassAssignment.dll
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/AbstractClassAssignment/AbstractClassAssignment/obj/Debug/netcoreapp3.1/AbstractClassAssignment.pdb
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/AbstractClassAssignment/AbstractClassAssignment/obj/Debug/netcoreapp3.1/AbstractClassAssignment.genruntimeconfig.cache
