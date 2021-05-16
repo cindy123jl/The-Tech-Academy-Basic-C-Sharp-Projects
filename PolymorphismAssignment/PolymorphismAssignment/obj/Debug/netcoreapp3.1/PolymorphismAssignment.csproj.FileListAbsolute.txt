@@ -1,0 +1,12 @@
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/PolymorphismAssignment/PolymorphismAssignment/bin/Debug/netcoreapp3.1/PolymorphismAssignment.deps.json
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/PolymorphismAssignment/PolymorphismAssignment/bin/Debug/netcoreapp3.1/PolymorphismAssignment.runtimeconfig.json
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/PolymorphismAssignment/PolymorphismAssignment/bin/Debug/netcoreapp3.1/PolymorphismAssignment.runtimeconfig.dev.json
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/PolymorphismAssignment/PolymorphismAssignment/bin/Debug/netcoreapp3.1/PolymorphismAssignment.dll
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/PolymorphismAssignment/PolymorphismAssignment/bin/Debug/netcoreapp3.1/PolymorphismAssignment.pdb
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/PolymorphismAssignment/PolymorphismAssignment/obj/Debug/netcoreapp3.1/PolymorphismAssignment.csprojAssemblyReference.cache
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/PolymorphismAssignment/PolymorphismAssignment/obj/Debug/netcoreapp3.1/PolymorphismAssignment.AssemblyInfoInputs.cache
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/PolymorphismAssignment/PolymorphismAssignment/obj/Debug/netcoreapp3.1/PolymorphismAssignment.AssemblyInfo.cs
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/PolymorphismAssignment/PolymorphismAssignment/obj/Debug/netcoreapp3.1/PolymorphismAssignment.csproj.CoreCompileInputs.cache
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/PolymorphismAssignment/PolymorphismAssignment/obj/Debug/netcoreapp3.1/PolymorphismAssignment.dll
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/PolymorphismAssignment/PolymorphismAssignment/obj/Debug/netcoreapp3.1/PolymorphismAssignment.pdb
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/PolymorphismAssignment/PolymorphismAssignment/obj/Debug/netcoreapp3.1/PolymorphismAssignment.genruntimeconfig.cache

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassesAndObjects
 {
-    public class TwentyOneGame : Game
+    public class TwentyOneGame : Game, IWalkAway
     {
         public override void Play()// should overide for the abstract method in Play()
         {
@@ -20,5 +20,10 @@ namespace ClassesAndObjects
                 base.ListPlayers();
             }
         }
+        public void WalkAway(Player player)
+            {
+                throw new NotFiniteNumberException();
+            }
+        
     }
 }

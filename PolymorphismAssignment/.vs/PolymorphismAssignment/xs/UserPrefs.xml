@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{1BE040EF-80AB-4109-BE5D-14DAF0FBDA5D}|Default">
+  <MonoDevelop.Ide.ItemProperties.PolymorphismAssignment PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PolymorphismAssignment/Program.cs">
+    <Files>
+      <File FileName="PolymorphismAssignment/Program.cs" Line="21" Column="35" />
+      <File FileName="PolymorphismAssignment/Employee.cs" />
+      <File FileName="PolymorphismAssignment/IQuittable.cs" />
+      <File FileName="PolymorphismAssignment/Person.cs" Line="10" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PolymorphismAssignment" expanded="True">
+            <Node name="PolymorphismAssignment" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
