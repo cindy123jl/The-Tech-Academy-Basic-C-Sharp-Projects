@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace PolymorphismAssignment
 {
-    interface IQuittable //interface is a blueprint , cannot be instantiated or have a method body
+    interface IQuittable //interface is the blueprint , cannot be instantiated or have a method body
     {
-        void Quit();//exits
+        void Quit();//quit
     }
 }

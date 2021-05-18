@@ -16,9 +16,9 @@ namespace PolymorphismAssignment
             employee.SayName();// will get line from Employee.cs
            
             IQuittable quit = new Employee();//instantiating
-            quit.Quit();//void IQuittable quit
+            quit.Quit();
 
-            Console.ReadLine();///
+            Console.ReadLine();//so it doesnt end abruptly
         }
     }
 }
