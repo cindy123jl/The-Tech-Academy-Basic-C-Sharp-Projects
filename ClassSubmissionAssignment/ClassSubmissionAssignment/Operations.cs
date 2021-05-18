@@ -11,6 +11,13 @@ namespace ClassSubmissionAssignment
             int num2 = Convert.ToInt32(Console.ReadLine());//users input is held in num2
             Console.WriteLine("Your input divided by 2: " + num2 / 2);//calculate and what is displayed
         }
+
+        public void methodOne(int ov)//overloading method example 
+        {
+            ov = 200 / 10; // ov is 200/10
+            Console.WriteLine("overloading example " + ov);//this will be what will be displayed to the screen one it is called by reference to program.cs
+        }
+        
         public void methodTwo(out int num3)//second void method
         {
 
