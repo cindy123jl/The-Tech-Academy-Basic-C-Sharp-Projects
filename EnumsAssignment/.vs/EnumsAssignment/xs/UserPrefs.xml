@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{278C0604-3C20-4901-A481-12C6EB540F1D}|Default">
+  <MonoDevelop.Ide.ItemProperties.EnumsAssignment PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EnumsAssignment/Days.cs">
+    <Files>
+      <File FileName="EnumsAssignment/Program.cs" Line="28" Column="99" />
+      <File FileName="EnumsAssignment/Days.cs" Line="11" Column="55" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EnumsAssignment" expanded="True">
+            <Node name="EnumsAssignment" expanded="True">
+              <Node name="Days.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -6,18 +6,38 @@ using System.Threading.Tasks;
 
 namespace ClassesAndObjects
 {
-   class Card
+  public class Card
         
-        {
-           public Card()
-        {
-            Suit = "Spades";//constructor these are the default settings
-            Face = "Two";
-        }
-           public string Suit { get; set; }
-           public string Face { get; set; }
+        { 
+           public Suit Suit { get; set; }
+           public Face Face { get; set; }
 
        
+         }
+    public enum Suit
+    {
+        Clubs,
+        Diamonds,
+        Hearts,
+        Spades
+    }
+
+    public enum Face
+    {
+        Two,
+        Three,
+        Four,
+        Five,
+        Six,
+        Seven,
+        Eight,
+        Nine,
+        Ten,
+        Jack,
+        Queen,
+        King,
+        Ace
+
     }
 }
 
