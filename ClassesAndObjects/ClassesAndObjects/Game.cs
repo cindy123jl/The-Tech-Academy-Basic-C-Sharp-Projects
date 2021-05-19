@@ -8,7 +8,7 @@ namespace ClassesAndObjects
 {
     public abstract class Game
     {
-        public List<string> Players { get; set; }
+        public List<Player> Players { get; set; }
         public string Name { get; set; }
         public string Dealer { get; set; }
 
@@ -16,7 +16,7 @@ namespace ClassesAndObjects
 
         public virtual void ListPlayers()//virtual means that this method gets inhert from an inherit class but can be overwritten
         {
-            foreach (string player in Players)
+            foreach (Player player in Players)
             {
                 Console.WriteLine(player);
             }

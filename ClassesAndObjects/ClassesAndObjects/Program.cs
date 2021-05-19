@@ -26,10 +26,18 @@ namespace ClassesAndObjects
 
 
 
-            TwentyOneGame game = new TwentyOneGame();
-            game.Players = new List<string>() { "Jesse", "Bill", "Bob" };
-            game.ListPlayers();
-            Console.ReadLine();
+            //TwentyOneGame game = new TwentyOneGame();
+            //game.Players = new List<string>() { "Jesse", "Bill", "Bob" };
+            //game.ListPlayers();
+            //Console.ReadLine();
+
+            Game game = new TwentyOneGame();
+            game.Players = new List<Player>();
+            Player player = new Player();
+            player.Name = "Jess";
+            game = game + player;
+
+            game = game - player;
 
             Deck deck = new Deck();
             deck.Shuffle(3);

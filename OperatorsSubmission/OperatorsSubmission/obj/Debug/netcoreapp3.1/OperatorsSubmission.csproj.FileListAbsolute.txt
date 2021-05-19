@@ -1,0 +1,12 @@
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/OperatorsSubmission/OperatorsSubmission/bin/Debug/netcoreapp3.1/OperatorsSubmission.deps.json
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/OperatorsSubmission/OperatorsSubmission/bin/Debug/netcoreapp3.1/OperatorsSubmission.runtimeconfig.json
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/OperatorsSubmission/OperatorsSubmission/bin/Debug/netcoreapp3.1/OperatorsSubmission.runtimeconfig.dev.json
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/OperatorsSubmission/OperatorsSubmission/bin/Debug/netcoreapp3.1/OperatorsSubmission.dll
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/OperatorsSubmission/OperatorsSubmission/bin/Debug/netcoreapp3.1/OperatorsSubmission.pdb
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/OperatorsSubmission/OperatorsSubmission/obj/Debug/netcoreapp3.1/OperatorsSubmission.csprojAssemblyReference.cache
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/OperatorsSubmission/OperatorsSubmission/obj/Debug/netcoreapp3.1/OperatorsSubmission.AssemblyInfoInputs.cache
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/OperatorsSubmission/OperatorsSubmission/obj/Debug/netcoreapp3.1/OperatorsSubmission.AssemblyInfo.cs
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/OperatorsSubmission/OperatorsSubmission/obj/Debug/netcoreapp3.1/OperatorsSubmission.csproj.CoreCompileInputs.cache
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/OperatorsSubmission/OperatorsSubmission/obj/Debug/netcoreapp3.1/OperatorsSubmission.dll
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/OperatorsSubmission/OperatorsSubmission/obj/Debug/netcoreapp3.1/OperatorsSubmission.pdb
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/OperatorsSubmission/OperatorsSubmission/obj/Debug/netcoreapp3.1/OperatorsSubmission.genruntimeconfig.cache
