@@ -7,8 +7,8 @@ using System.Threading.Tasks;
 namespace LambdaAssignment
 {
     public class empInfo
-    {
-        public string Employees { get; set; }
-        public string ID { get; set; }
+    {   //our data types 
+        public string Name { get; set; }
+        public int ID { get; set; }
     }
 }

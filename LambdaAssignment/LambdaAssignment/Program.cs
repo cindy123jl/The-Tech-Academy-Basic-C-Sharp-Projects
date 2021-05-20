@@ -10,26 +10,29 @@ namespace LambdaAssignment
     class Program
     {
         static void Main(string[] args)
-        {
-            List<string> Employees = new List<string>();
+        {       ///List with each element of type empinfo
+            List<empInfo> Employees = new List<empInfo>()
+            {   //creating our list with values given to name and id
+                new empInfo { Name = "Guido Mista", ID = 1 },
+                new empInfo { Name = "Jotaro Kujo", ID = 2 },
+                new empInfo { Name = "Joseph Joestar", ID = 3 },
+                new empInfo { Name = "Sasuke Uchiha", ID = 4 },
+                new empInfo { Name = "Joe Kim", ID = 5 },
+                new empInfo { Name = "Giorno Giovanna", ID = 6 },
+                new empInfo { Name = "Trisha Una", ID = 7 },
+                new empInfo { Name = "Joe Hughs", ID = 8 },
+                new empInfo { Name = "Ninel Rich", ID = 9 },
+                new empInfo { Name = "Sakura Hataka", ID = 10 }
 
-            Employees.Add("Guido Mista");
-            Employees.Add("Giorno Giovanna");
-            Employees.Add("Dio Brando");
-            Employees.Add("Bruno Bucalletti");
-            Employees.Add("Narancia Ghirga");
-            Employees.Add("Leone Abbacchio");
-            Employees.Add("Fugo Panaccotta");
-            Employees.Add("Joe Kim");
-            Employees.Add("Diavolo Doppio");
-            Employees.Add("Joe Mar");
-
+            };
+            //this will retrieve the employees with id greater than 5 
+            var Employee = Employees.FindAll(x => x.ID > 5);
           
-            foreach (string employees in Employees)
-            {
-                Console.WriteLine(employees.Contains("Joe"));
-                Console.ReadLine();
+            foreach (var emp in Employee)
+            {   //will display those with id greater than 5
+                Console.WriteLine(emp.Name);
             }
+            Console.ReadKey();
 
 
         }
