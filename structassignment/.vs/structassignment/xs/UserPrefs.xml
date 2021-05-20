@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{C035DB9C-735C-485D-A3E5-E6482E53F145}|Default">
+  <MonoDevelop.Ide.ItemProperties.structassignment FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="structassignment/Program.cs">
+    <Files>
+      <File FileName="structassignment/Program.cs" Line="16" Column="32" />
+      <File FileName="structassignment/structproj.cs" Line="14" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="structassignment" expanded="True">
+            <Node name="structassignment" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

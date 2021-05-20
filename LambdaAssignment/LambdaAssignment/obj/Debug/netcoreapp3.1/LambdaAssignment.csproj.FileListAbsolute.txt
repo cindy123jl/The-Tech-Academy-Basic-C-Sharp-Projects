@@ -1,0 +1,12 @@
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/LambdaAssignment/LambdaAssignment/obj/Debug/netcoreapp3.1/LambdaAssignment.csprojAssemblyReference.cache
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/LambdaAssignment/LambdaAssignment/obj/Debug/netcoreapp3.1/LambdaAssignment.AssemblyInfoInputs.cache
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/LambdaAssignment/LambdaAssignment/obj/Debug/netcoreapp3.1/LambdaAssignment.AssemblyInfo.cs
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/LambdaAssignment/LambdaAssignment/obj/Debug/netcoreapp3.1/LambdaAssignment.csproj.CoreCompileInputs.cache
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/LambdaAssignment/LambdaAssignment/bin/Debug/netcoreapp3.1/LambdaAssignment.deps.json
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/LambdaAssignment/LambdaAssignment/bin/Debug/netcoreapp3.1/LambdaAssignment.runtimeconfig.json
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/LambdaAssignment/LambdaAssignment/bin/Debug/netcoreapp3.1/LambdaAssignment.runtimeconfig.dev.json
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/LambdaAssignment/LambdaAssignment/bin/Debug/netcoreapp3.1/LambdaAssignment.dll
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/LambdaAssignment/LambdaAssignment/bin/Debug/netcoreapp3.1/LambdaAssignment.pdb
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/LambdaAssignment/LambdaAssignment/obj/Debug/netcoreapp3.1/LambdaAssignment.dll
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/LambdaAssignment/LambdaAssignment/obj/Debug/netcoreapp3.1/LambdaAssignment.pdb
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/LambdaAssignment/LambdaAssignment/obj/Debug/netcoreapp3.1/LambdaAssignment.genruntimeconfig.cache

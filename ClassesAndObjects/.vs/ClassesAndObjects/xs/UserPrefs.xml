@@ -1,18 +1,18 @@
 ﻿<Properties StartupConfiguration="{BE7B4B00-BF2E-40BF-B8C9-26B65C42B3A7}|Default">
   <MonoDevelop.Ide.ItemProperties.ClassesAndObjects PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ClassesAndObjects/Card.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClassesAndObjects/Program.cs">
     <Files>
-      <File FileName="ClassesAndObjects/Program.cs" Line="48" Column="66" />
+      <File FileName="ClassesAndObjects/Program.cs" Line="63" Column="36" />
       <File FileName="ClassesAndObjects/Player.cs" />
-      <File FileName="ClassesAndObjects/Card.cs" Line="9" Column="20" />
-      <File FileName="ClassesAndObjects/Deck.cs" Line="12" Column="10" />
+      <File FileName="ClassesAndObjects/Card.cs" />
+      <File FileName="ClassesAndObjects/Deck.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ClassesAndObjects" expanded="True">
             <Node name="ClassesAndObjects" expanded="True">
-              <Node name="Card.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>

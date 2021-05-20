@@ -42,12 +42,31 @@ namespace ClassesAndObjects
 
             //List<string>
 
+            //Card card1 = new Card();
+            //Card card2 = card1;
+            //card1.Face = Face.Eight;
+            //card2.Face = Face.King;
 
-            Card card = new Card();
-            card.Suit = Suit.Clubs;
-            int underlyingValue = Convert.ToInt32(Suit.Diamonds);
+            //Console.WriteLine(card1Face);
+
+            //Card card = new Card();
+            //card.Suit = Suit.Clubs;
+           // int underlyingValue = Convert.ToInt32(Suit.Diamonds);
 
             Deck deck = new Deck();
+
+            int count = deck.Cards.Count(x => x.Face == Face.Ace);
+
+            //List<Card> newList = deck.Cards.Where(x => x.Face == Face.King).ToList();
+            List<int> numberList = new List<int>() { 2, 3, 6, 7 };
+            int sum = numberList.Sum(x => x+5);
+            Console.WriteLine(sum);
+
+            foreach(Card card in newList)
+            {
+                Console.WriteLine(card.Face);
+            }
+
             deck.Shuffle(3);
             
             foreach (Card card in deck.Cards)

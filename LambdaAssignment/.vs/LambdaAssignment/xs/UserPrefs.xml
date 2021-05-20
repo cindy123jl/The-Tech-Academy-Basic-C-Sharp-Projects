@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{5048CC3F-CC33-4346-89E5-5CC97ED8856D}|Default">
+  <MonoDevelop.Ide.ItemProperties.LambdaAssignment PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LambdaAssignment/empInfo.cs">
+    <Files>
+      <File FileName="LambdaAssignment/Program.cs" Line="31" Column="36" />
+      <File FileName="LambdaAssignment/empInfo.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LambdaAssignment" expanded="True">
+            <Node name="LambdaAssignment" expanded="True">
+              <Node name="empInfo.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
