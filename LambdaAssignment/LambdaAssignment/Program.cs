@@ -43,9 +43,12 @@ namespace LambdaAssignment
                 Console.WriteLine(empl.Name);//writes out Joe two times since its exist two times
             }
 
-            List<empInfo> newL = new List<empInfo>();
 
-            var Employee2 = Employees.FindAll(y => y.Name == "Joe");//lambda expression looking for Joe
+
+
+           // List<empInfo> newL = new List<empInfo>();
+
+            List<empInfo> Employee2 = Employees.Where(y => y.Name == "Joe").ToList();//lambda expression looking for Joe
 
             foreach (var emp2 in Employee2)
             {
@@ -54,9 +57,11 @@ namespace LambdaAssignment
             }
 
 
-            List<empInfo> NewL = new List<empInfo>();
+
+
+            //List<empInfo> NewL = new List<empInfo>();
             //this will retrieve the employees with id greater than 5 
-            var Employee = Employees.FindAll(x => x.ID > 5);
+            List<empInfo> Employee = Employees.Where(x => x.ID > 5).ToList();
           
             foreach (var emp in Employee)
             {   //will display those with id greater than 5
