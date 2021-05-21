@@ -11,6 +11,70 @@ namespace ClassesAndObjects
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("Welcome to the Grand Hotel and Casino!! Let's start by telling me your name: ");
+            string playerName = Console.ReadLine();
+            Console.WriteLine("And how much money did you bring today? ");
+            int bank = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Hello, {0}. Would you like to join a game of 21 right now? ", playerName);
+            string answer = Console.ReadLine().ToLower();//tolower lowercases input for us to run through only lowercase options
+            if (answer == "yes" || answer == "ye" || answer == "yeah" || answer == "ya" || answer == "y")
+            {
+                Player player = new Player(playerName, bank);//this is a constructor
+                Game game = new TwentyOneGame();//game is created polymorphism happening here
+                game += player; //adding player to the game
+                player.isActivelyPlaying = true;
+                while (player.isActivelyPlaying && player.Balance > 0)
+                {
+                    game.Play();
+                }
+            }
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
             //List<Game> games = new List<Game>();
 
             //Game game = new TwentyOneGame();//polymorphism TwentyOneGame inherits from game 
@@ -51,47 +115,45 @@ namespace ClassesAndObjects
 
             //Card card = new Card();
             //card.Suit = Suit.Clubs;
-           // int underlyingValue = Convert.ToInt32(Suit.Diamonds);
+            // int underlyingValue = Convert.ToInt32(Suit.Diamonds);
 
-            Deck deck = new Deck();
+           // Deck deck = new Deck();
 
-            int count = deck.Cards.Count(x => x.Face == Face.Ace);
+           // int count = deck.Cards.Count(x => x.Face == Face.Ace);
 
             //List<Card> newList = deck.Cards.Where(x => x.Face == Face.King).ToList();
-            List<int> numberList = new List<int>() { 2, 3, 6, 7 };
-            int sum = numberList.Sum(x => x+5);
-            Console.WriteLine(sum);
+            //List<int> numberList = new List<int>() { 2, 3, 6, 7 };
+            //int sum = numberList.Sum(x => x + 5);
+            //Console.WriteLine(sum);
 
-            foreach(Card card in newList)
-            {
-                Console.WriteLine(card.Face);
-            }
+            //foreach (Card card in newList)
+            //{
+            //    Console.WriteLine(card.Face);
+            //}
 
-            deck.Shuffle(3);
-            
-            foreach (Card card in deck.Cards)
-            {
-                Console.WriteLine(card.Face + " of " + card.Suit);
-            }
-            Console.WriteLine(deck.Cards.Count);
-          
-            Console.ReadLine();
+            //deck.Shuffle(3);
 
-        }
-        public enum days
-        {
+           // foreach (Card card in deck.Cards)
+           // {
+                //Console.WriteLine(card.Face + " of " + card.Suit);
+            //}
+           // Console.WriteLine(deck.Cards.Count);
 
-            monday,
-            tuesday,
-            wednesday
-        }
-    }
-}       //public static Deck Shuffle(Deck deck, int times)
+           // Console.ReadLine();
+
+       // }
+       // public enum days
+        //{
+
+           // monday,
+           // tuesday,
+           // wednesday
+        //}
+   // }
+//}       //public static Deck Shuffle(Deck deck, int times)
         //{
         //  for (int i = 0; i < times; i++)
         //  {
         //     deck = Shuffle(deck);
         //  }
         //   return deck;
-
-

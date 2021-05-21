@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.ItemProperties.ClassesAndObjects PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="ClassesAndObjects/Program.cs">
     <Files>
-      <File FileName="ClassesAndObjects/Program.cs" Line="63" Column="36" />
+      <File FileName="ClassesAndObjects/Program.cs" Line="117" Column="38" />
       <File FileName="ClassesAndObjects/Player.cs" />
       <File FileName="ClassesAndObjects/Card.cs" />
       <File FileName="ClassesAndObjects/Deck.cs" />

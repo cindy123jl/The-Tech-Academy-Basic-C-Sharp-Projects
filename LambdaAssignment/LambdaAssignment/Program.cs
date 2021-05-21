@@ -25,6 +25,15 @@ namespace LambdaAssignment
                 new empInfo { Name = "Sakura Hataka", ID = 10 }
 
             };
+
+            var Employee2 = Employees.FindAll(y => y.Name == "Joe");
+
+            foreach (var emp2 in Employee2)
+            {
+                Console.WriteLine(emp2.Name);
+            }
+            
+
             //this will retrieve the employees with id greater than 5 
             var Employee = Employees.FindAll(x => x.ID > 5);
           
@@ -33,6 +42,8 @@ namespace LambdaAssignment
                 Console.WriteLine(emp.Name);
             }
             Console.ReadKey();
+
+            
 
 
         }
