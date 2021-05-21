@@ -13,25 +13,45 @@ namespace LambdaAssignment
         {       ///List with each element of type empinfo
             List<empInfo> Employees = new List<empInfo>()
             {   //creating our list with values given to name and id
-                new empInfo { Name = "Guido Mista", ID = 1 },
-                new empInfo { Name = "Jotaro Kujo", ID = 2 },
-                new empInfo { Name = "Joseph Joestar", ID = 3 },
-                new empInfo { Name = "Sasuke Uchiha", ID = 4 },
-                new empInfo { Name = "Joe Kim", ID = 5 },
-                new empInfo { Name = "Giorno Giovanna", ID = 6 },
-                new empInfo { Name = "Trisha Una", ID = 7 },
-                new empInfo { Name = "Joe Hughs", ID = 8 },
-                new empInfo { Name = "Ninel Rich", ID = 9 },
-                new empInfo { Name = "Sakura Hataka", ID = 10 }
+                new empInfo { Name = "Guido", lName = "Mista", ID = 1 },
+                new empInfo { Name = "Jotaro", lName = "Kujo", ID = 2 },
+                new empInfo { Name = "Joseph", lName = "Joestar", ID = 3 },
+                new empInfo { Name = "Sasuke", lName = "Uchiha", ID = 4 },
+                new empInfo { Name = "Joe", lName = "Kim", ID = 5 },
+                new empInfo { Name = "Giorno", lName = "Giovanna", ID = 6 },
+                new empInfo { Name = "Trisha", lName = "Una", ID = 7 },
+                new empInfo { Name = "Joe", lName = "Luna", ID = 8 },
+                new empInfo { Name = "Ninel", lName = "Hune", ID = 9 },
+                new empInfo { Name = "Sakura", lName = "Haka", ID = 10 }
 
             };
 
-            var Employee2 = Employees.FindAll(y => y.Name == "Joe");
+            List<empInfo> theEmp = new List<empInfo>();//list
+            
+            // for each loop
+            foreach (var empl in Employees)
+            {
+                if (empl.Name == "Joe") //if eml name is "Joe"
+                {
+                    theEmp.Add(empl);//add 
+
+                }
+                
+            }
+            foreach (var empl in theEmp) 
+            {
+                Console.WriteLine(empl.Name);//writes out Joe two times since its exist two times
+            }
+            
+
+            var Employee2 = Employees.FindAll(y => y.Name == "Joe");//lambda expression looking for Joe
 
             foreach (var emp2 in Employee2)
             {
                 Console.WriteLine(emp2.Name);
+                
             }
+
             
 
             //this will retrieve the employees with id greater than 5 
@@ -41,9 +61,11 @@ namespace LambdaAssignment
             {   //will display those with id greater than 5
                 Console.WriteLine(emp.Name);
             }
-            Console.ReadKey();
+          
 
             
+
+            Console.ReadKey();
 
 
         }
