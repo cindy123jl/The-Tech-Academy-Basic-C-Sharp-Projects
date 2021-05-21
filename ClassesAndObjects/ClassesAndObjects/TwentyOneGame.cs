@@ -21,6 +21,7 @@ namespace ClassesAndObjects
             Dealer.Hand = new List<Card>();
             Dealer.Stay = false;
             Dealer.Deck = new Deck();
+            Dealer.Deck.Shuffle();
             Console.WriteLine("Place your bet!");
 
             foreach (Player player in Players)
@@ -65,6 +66,7 @@ namespace ClassesAndObjects
                         {
                             Dealer.Balance += entry.Value;
                         }
+                        return;
                     }
                 }
             }
@@ -73,7 +75,7 @@ namespace ClassesAndObjects
                 while (!player.Stay)
                 {
                     Console.WriteLine("Your cards are: ");
-                    foreach(Card card in Player.Hand)
+                    foreach(Card card in player.Hand)
                     {
                         Console.Write("{0} ", card.ToString());
                     }
@@ -98,10 +100,12 @@ namespace ClassesAndObjects
                         if (answer == "yes" || answer == "yeah")
                         {
                             player.isActivelyPlaying = true;
+                            return;
                         }
                         else
                         {
                             player.isActivelyPlaying = false;
+                            return;
 
                         }
 

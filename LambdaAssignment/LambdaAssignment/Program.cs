@@ -42,7 +42,8 @@ namespace LambdaAssignment
             {
                 Console.WriteLine(empl.Name);//writes out Joe two times since its exist two times
             }
-            
+
+            List<empInfo> newL = new List<empInfo>();
 
             var Employee2 = Employees.FindAll(y => y.Name == "Joe");//lambda expression looking for Joe
 
@@ -52,8 +53,8 @@ namespace LambdaAssignment
                 
             }
 
-            
 
+            List<empInfo> NewL = new List<empInfo>();
             //this will retrieve the employees with id greater than 5 
             var Employee = Employees.FindAll(x => x.ID > 5);
           

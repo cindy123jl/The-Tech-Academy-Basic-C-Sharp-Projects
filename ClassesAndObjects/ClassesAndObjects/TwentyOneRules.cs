@@ -25,13 +25,13 @@ namespace ClassesAndObjects
             [Face.Ace] = 1
 
         };
-        private static int[] GetAllPossibleHandValues(List<Card>Hand)
+        private static int[] GetAllPossibleHandValues(List<Card> Hand)
         {
-        int aceCount = Hand.Count(x => x.Face == Face.Ace);
-        int[] result = new int[aceCount + 1];
-        int value = Hand.Sum(x => _cardValues[x.Face]);
+            int aceCount = Hand.Count(x => x.Face == Face.Ace);
+            int[] result = new int[aceCount + 1];
+            int value = Hand.Sum(x => _cardValues[x.Face]);
             result[0] = value;
-            if (result.Length == 1 )
+            if (result.Length == 1)
             {
                 return result;
             }
@@ -63,7 +63,7 @@ namespace ClassesAndObjects
             if (value > 21) return true;
             else return false;
         }
-        public static bool ShouldDealerStay(List<Card>Hand)
+        public static bool ShouldDealerStay(List<Card> Hand)
         {
             int[] possibleHandValues = GetAllPossibleHandValues(Hand);
             foreach (int value in possibleHandValues)
@@ -89,7 +89,7 @@ namespace ClassesAndObjects
             else if (playerScore < dealerScore) return false;
             else return null;
 
-        
-       }
-    
+
+        }
+    }
 }
