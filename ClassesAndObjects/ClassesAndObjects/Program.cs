@@ -11,7 +11,8 @@ namespace ClassesAndObjects
     {
         static void Main(string[] args)
         {
-            
+
+            //Player newPlayer = new Player("Jess");
 
             Console.WriteLine("Welcome to the Grand Hotel and Casino!! Let's start by telling me your name: ");
             string playerName = Console.ReadLine();
@@ -25,8 +26,13 @@ namespace ClassesAndObjects
             if (answer == "yes" || answer == "ye" || answer == "yeah" || answer == "ya" || answer == "y")
             {
                 Player player = new Player(playerName, bank);//this is a constructor
+                player.Id = Guid.NewGuid();
                 Game game = new TwentyOneGame();//game is created polymorphism happening here
                 game += player; //adding player to the game
+                using (StreamWriter file = new StreamWriter(@"C:\\USers\path", true))
+                {
+                    file.WriteLine(player.Id);
+                }
                 player.isActivelyPlaying = true;
                 while (player.isActivelyPlaying && player.Balance > 0)
                 {
@@ -47,6 +53,7 @@ namespace ClassesAndObjects
 
 
 
+//Assmblies and namespaces
 
 
 
@@ -57,14 +64,14 @@ namespace ClassesAndObjects
 
 
 
+//Constructor call change
+//
 
 
 
-
-
-
-
-
+//constant key example
+//const string CasinoName = "Grand Hotel and Casino";
+// Guid identifier = Guid.NewGuid("Jesse");
 
 //DateTime yearOfBirth = new DateTime(1995, 5, 23, 8, 32, 45);
 //DateTime yearofGraduation = new DateTime(2013, 6, 1, 16, 34, 22);

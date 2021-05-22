@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{4A280589-E6EE-45B5-AFFA-80E991C6219B}|Default">
+  <MonoDevelop.Ide.ItemProperties.ConstructorAssignment PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConstructorAssignment/Program.cs">
+    <Files>
+      <File FileName="ConstructorAssignment/Program.cs" Line="21" Column="90" />
+      <File FileName="ConstructorAssignment/petInfo.cs" Line="26" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConstructorAssignment" expanded="True">
+            <Node name="ConstructorAssignment" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

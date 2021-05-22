@@ -2,18 +2,16 @@
   <MonoDevelop.Ide.ItemProperties.ClassesAndObjects PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="ClassesAndObjects/Program.cs">
     <Files>
-      <File FileName="ClassesAndObjects/TwentyOneGame.cs" Line="90" Column="22" />
-      <File FileName="ClassesAndObjects/TwentyOneDealer.cs" />
-      <File FileName="ClassesAndObjects/Game.cs" />
-      <File FileName="ClassesAndObjects/TwentyOneRules.cs" />
-      <File FileName="ClassesAndObjects/Dealer.cs" Line="18" Column="10" />
-      <File FileName="ClassesAndObjects/Player.cs" />
-      <File FileName="ClassesAndObjects/Program.cs" Line="14" Column="13" />
+      <File FileName="Casino/TwentyOneGame.cs" Line="193" Column="1" />
+      <File FileName="ClassesAndObjects/Program.cs" Line="18" Column="12" />
+      <File FileName="Casino/Player.cs" Line="29" Column="1" />
+      <File FileName="Casino/Dealer.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ClassesAndObjects" expanded="True">
+            <Node name="Casino" expanded="True" />
             <Node name="ClassesAndObjects" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>

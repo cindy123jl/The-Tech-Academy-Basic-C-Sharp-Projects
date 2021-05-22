@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClassesAndObjects
+namespace Casino.ClassesAndObjects
 {
     public class TwentyOneGame : Game, IWalkAway
     {
@@ -189,3 +189,4 @@ namespace ClassesAndObjects
         
     }
 }
+

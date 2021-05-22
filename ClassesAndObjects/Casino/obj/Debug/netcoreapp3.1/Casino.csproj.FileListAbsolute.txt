@@ -1,0 +1,4 @@
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ClassesAndObjects/Casino/obj/Debug/netcoreapp3.1/Casino.csprojAssemblyReference.cache
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ClassesAndObjects/Casino/obj/Debug/netcoreapp3.1/Casino.AssemblyInfoInputs.cache
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ClassesAndObjects/Casino/obj/Debug/netcoreapp3.1/Casino.AssemblyInfo.cs
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ClassesAndObjects/Casino/obj/Debug/netcoreapp3.1/Casino.csproj.CoreCompileInputs.cache

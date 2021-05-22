@@ -1,0 +1,12 @@
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConstructorAssignment/ConstructorAssignment/bin/Debug/netcoreapp3.1/ConstructorAssignment.deps.json
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConstructorAssignment/ConstructorAssignment/bin/Debug/netcoreapp3.1/ConstructorAssignment.runtimeconfig.json
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConstructorAssignment/ConstructorAssignment/bin/Debug/netcoreapp3.1/ConstructorAssignment.runtimeconfig.dev.json
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConstructorAssignment/ConstructorAssignment/bin/Debug/netcoreapp3.1/ConstructorAssignment.dll
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConstructorAssignment/ConstructorAssignment/bin/Debug/netcoreapp3.1/ConstructorAssignment.pdb
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConstructorAssignment/ConstructorAssignment/obj/Debug/netcoreapp3.1/ConstructorAssignment.csprojAssemblyReference.cache
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConstructorAssignment/ConstructorAssignment/obj/Debug/netcoreapp3.1/ConstructorAssignment.AssemblyInfoInputs.cache
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConstructorAssignment/ConstructorAssignment/obj/Debug/netcoreapp3.1/ConstructorAssignment.AssemblyInfo.cs
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConstructorAssignment/ConstructorAssignment/obj/Debug/netcoreapp3.1/ConstructorAssignment.csproj.CoreCompileInputs.cache
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConstructorAssignment/ConstructorAssignment/obj/Debug/netcoreapp3.1/ConstructorAssignment.dll
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConstructorAssignment/ConstructorAssignment/obj/Debug/netcoreapp3.1/ConstructorAssignment.pdb
+/Users/cindylara/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConstructorAssignment/ConstructorAssignment/obj/Debug/netcoreapp3.1/ConstructorAssignment.genruntimeconfig.cache
