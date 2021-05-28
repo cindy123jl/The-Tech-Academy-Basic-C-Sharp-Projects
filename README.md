@@ -1,6 +1,7 @@
 # C#_Projects
  
- Here I have some c# projects 
+ Here I have some C# projects where I also have some projects using the 
+ .Net Framework
  
  # Projects
  
