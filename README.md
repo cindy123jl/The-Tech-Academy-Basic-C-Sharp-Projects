@@ -1,4 +1,17 @@
-# The Tech Academy Basic C-Sharp Projects
+# C#_Projects
  
- Here I will have some Basic C# projects
+ Here I have some c# projects 
+ 
+ # Projects
+ 
+ 
+[BasicUniversityApplication](https://github.com/cindy123jl/BasicUniversityApplication)
+
+
+
+## BasicUniversityApplication:
+
+This is a website that allows you to add students and view students in a made up University
+
+
  
